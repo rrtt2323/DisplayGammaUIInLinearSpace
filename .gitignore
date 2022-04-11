@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# 特殊的系统文件
+*.DS_Store
+# ide
+.idea/
